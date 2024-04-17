@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".DetaildActivity">
+    tools:context=".Activites.DetaildActivity">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -47,7 +47,7 @@
                         android:id="@+id/imageView"
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/output"
+                        android:src="@drawable/starting"
                         app:layout_constraintEnd_toEndOf="parent"
                         app:layout_constraintStart_toStartOf="parent"
                         app:layout_constraintTop_toTopOf="parent" />

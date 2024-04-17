@@ -12,10 +12,10 @@
         android:theme="@style/Theme.LearnJavaApp"
         tools:targetApi="31">
         <activity
-            android:name=".DetaildActivity"
+            android:name=".Activites.DetaildActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".Activites.MainActivity"
             android:exported="false" />
         <activity
             android:name=".Login.Login"

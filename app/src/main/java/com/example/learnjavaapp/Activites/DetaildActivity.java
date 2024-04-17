@@ -1,4 +1,4 @@
-package com.example.learnjavaapp;
+package com.example.learnjavaapp.Activites;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.cardview.widget.CardView;
@@ -8,6 +8,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.example.learnjavaapp.R;
 
 public class DetaildActivity extends AppCompatActivity {
 
@@ -28,6 +30,8 @@ public class DetaildActivity extends AppCompatActivity {
             setContentView(R.layout.level_output);
         }else if (intent.getIntExtra("index",0) == 3){
             setContentView(R.layout.level_syntax);
+        }else if (intent.getIntExtra("index",0) == 4){
+            setContentView(R.layout.level_variables);
         }
         //setContentView(R.layout.activity_detaild);
 

@@ -6,7 +6,8 @@
     android:layout_height="match_parent"
     tools:context=".Login.Login"
     android:layout_margin="10dp"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@color/white">
 
     <ImageView
         android:layout_marginTop="20dp"

@@ -11,7 +11,7 @@ import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.Toast;
 
-import com.example.learnjavaapp.MainActivity;
+import com.example.learnjavaapp.Activites.MainActivity;
 import com.example.learnjavaapp.R;
 import com.google.android.material.textfield.TextInputLayout;
 
