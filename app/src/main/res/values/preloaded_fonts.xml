@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alata</item>
+        <item>@font/allerta</item>
+        <item>@font/anton</item>
+        <item>@font/asul</item>
+        <item>@font/bowlby</item>
+        <item>@font/bowlby_one</item>
+        <item>@font/copse</item>
+        <item>@font/ultra</item>
+    </array>
+</resources>
