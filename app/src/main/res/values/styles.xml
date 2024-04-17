@@ -16,4 +16,10 @@
         <item name="android:fontFamily">@font/copse</item>
         <item name="android:layout_margin">10dp</item>
     </style>
+
+    <style name="welcome_texts">
+        <item name="android:fontFamily">@font/ultra</item>
+        <item name="android:textSize">30dp</item>
+
+    </style>
 </resources>
