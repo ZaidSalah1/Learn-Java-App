@@ -2,6 +2,7 @@ package com.example.learnjavaapp.model;
 
 import android.widget.ImageView;
 
+// Model class to represent data for each list item
 public class Model {
     private String txtName, txtInfo;
     private int imageView;
