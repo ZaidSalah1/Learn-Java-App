@@ -29,6 +29,8 @@ public class DetaildActivity extends AppCompatActivity {
             setContentView(R.layout.level_syntax);
         }else if (intent.getIntExtra("index",0) == 4){
             setContentView(R.layout.level_variables);
+        }else if (intent.getIntExtra("index",0) == 5){
+            setContentView(R.layout.level_comments);
         }
     }
 

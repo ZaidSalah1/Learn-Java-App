@@ -20,7 +20,7 @@
     <style name="welcome_texts">
         <item name="android:fontFamily">@font/ultra</item>
         <item name="android:textSize">30dp</item>
-
+        <item name="android:gravity">center</item>
     </style>
 
 </resources>

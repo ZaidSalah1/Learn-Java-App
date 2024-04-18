@@ -1,4 +1,33 @@
 <resources>
     <string name="app_name">Learn Java App</string>
     <string name="TextView"> dd</string>
+
+    <integer-array name="image_list">
+        <item>@drawable/code_ic</item>
+        <item>@drawable/starting</item>
+        <item>@drawable/output</item>
+        <item>@drawable/code</item>
+        <item>@drawable/variable_ic</item>
+        <item>@drawable/comments</item>
+    </integer-array>
+
+    <string-array name="txt_level_name">
+        <item>Introduction</item>
+        <item>Java Get Started</item>
+        <item>Java Output</item>
+        <item>Java Syntax</item>
+        <item>Java Variable</item>
+        <item>Java Comments</item>
+    </string-array>
+
+    <string-array name="txt_level_info">
+        <item>What is Java ?</item>
+        <item>Run the Code</item>
+        <item>Hello World!</item>
+        <item>Rules of Java</item>
+        <item>What is a Java Variable?</item>
+        <item>Comments</item>
+    </string-array>
+
+
 </resources>
