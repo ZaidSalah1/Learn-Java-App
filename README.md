@@ -1,5 +1,5 @@
 # Learn Java Phone app
-##  This project is a simple Java phone application designed to help beginners learn Java programming. It covers basic concepts and provides a hands-on approach to understanding how Java applications work on mobile devices.
+  This project is a simple Java phone application designed to help beginners learn Java programming. It covers basic concepts and provides a hands-on approach to understanding how Java applications work on mobile devices.
 
 
 # APP Design
